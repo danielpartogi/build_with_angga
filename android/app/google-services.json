@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "541590863902",
+    "project_id": "flutter-ee4c5",
+    "storage_bucket": "flutter-ee4c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541590863902:android:67b53857ea863379af2e0f",
+        "android_client_info": {
+          "package_name": "com.apelgigit.build_with_angga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541590863902-dfdnqd9jk1ktemrlsovrs9edsmmutqdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALn8SolqGlBZ2TdtP8hdkm7TDkXQLI8SU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541590863902-dfdnqd9jk1ktemrlsovrs9edsmmutqdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
