@@ -12,7 +12,7 @@ class _MainPageState extends State<MainPage> {
     return Scaffold(
       appBar: AppBar(title: Text("Sign in Page")),
       body: Center(
-        child: RaisedButton(
+        child: ElevatedButton(
           child: Text("Sign out"),
           onPressed: () {
             AuthServices.signOut();

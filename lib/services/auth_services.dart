@@ -25,6 +25,7 @@ class AuthServices {
   static Future<SignInSignUpResult> signIn(
       String email, String password) async {
     try {
+      print("$email, $password");
       var result = await _auth.signInWithEmailAndPassword(
           email: email, password: password);
 
